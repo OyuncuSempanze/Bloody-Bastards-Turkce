@@ -28,3 +28,7 @@
 *  **Künt Hasar**, rakibinizin kolunu kırabileceğiniz anlamına gelir.
 *  **Kesici Hasardan** tek farkı, rakibiniz saniye başına hasar **ALMAZ**.
 *  **Künt Hasar**, **Kesici Hasara** göre daha kolay parçalar. 
+
+
+## Ağırlık:
+* Her silahın/kalkanın kendine özgü ağırlığı vardır. Ağır silahlar/kalkanlar daha fazla hasar verirken/hasar azaltırken enerjinizi (stamina) daha fazla tüketir.
