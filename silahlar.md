@@ -8,7 +8,7 @@
 * Ek bir **silah** veya **kalkan** kuşanamazsınız.
 
 **Tek Elli Silahlar:**
-* Bu silahlar enerjinizi **daha az** tüketir ancak **daha kısa** ve **daha az** hasar verir.
+* Bu silahlar enerjinizi **daha az** tüketir ancak **daha kısadır** ve **daha az** hasar verir.
 * Başka bir **tek elli silah** veya **kalkan** kuşanabilirsiniz. (Yani **2** silah/kalkan kuşanabiliyorsunuz.)
 
 **Kalkanlar:**
@@ -26,5 +26,5 @@
 *  **Künt (Ezici) Hasar:**
 *  **Balyoz, çekiç, topuz** gibi silahlar kullanarak ***künt*** hasar verirsiniz.
 *  **Künt Hasar**, rakibinizin kolunu kırabileceğiniz anlamına gelir.
-*  **Kesici Hasardan** tek farkı, rakibiniz saniye başına hasar almaz.
-
+*  **Kesici Hasardan** tek farkı, rakibiniz saniye başına hasar **ALMAZ**.
+*  **Künt Hasar**, **Kesici Hasara** göre daha kolay parçalar. 
