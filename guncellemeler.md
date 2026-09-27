@@ -9,3 +9,12 @@ Güncellemelerde yeni silahlar, zırhlar, özellikler, oynanış değişiklikler
 ## 5.0.4 (7 Eylül 2026)
 * Maç başlangıcında isim gösterme animasyonu eklenir.
 * Bazı hatalar düzeltilir.
+
+
+#### Kaynaklar
+
+[Bloody Bastards - Play Store]
+https://play.google.com/store/apps/details?id=com.tibith.badboxing
+
+[Resmi Tibith Web Sitesi]
+https://tibith.com/#/bloodybastards/
