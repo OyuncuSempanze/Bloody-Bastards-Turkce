@@ -4,7 +4,7 @@
 * Günümüzde de hâlâ güncellemeler alır.
 
 
-* **Mobil** ve **pc** üzerinden (BlueStacks benzeri emülatörleri kullanarak.) oynayabilirsiniz.
+* **Mobil** ve **PC** üzerinden ([BlueStacks](https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html) benzeri emülatörleri kullanarak.) oynayabilirsiniz.
 
 * Amacınız, rakibinizi **yok etmektir**. Bunun için karakterinizin 2 kolunu da **ayrı ayrı** kullanırsınız.
 
@@ -14,7 +14,7 @@
 
 * Online modda **gerçek oyuncularla**, tekoyunculu modda ise **botlara karşı** oynarsınız.
 
-#### KAYNAKLAR
+## KAYNAKLAR
 
 [Bloody Bastards - BlueStacks](https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html)
 
