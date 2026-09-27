@@ -1,34 +1,47 @@
-# Oynanış
+## Oynanış
 
 Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır.
 
 ## Dövüş Sistemi
 
-Oyundaki saldırılar, **karakterin kollarının hareket ettirilmesiyle** gerçekleştirilir. Silahın **hareket yönü ve saldırının zamanlaması**, rakibe verilen **hasarı etkiler**.
+Oyundaki saldırılar, karakterin kollarının hareket ettirilmesiyle gerçekleştirilir. Silahın hareket yönü ve saldırının zamanlaması, rakibe verilen hasarı etkileyebilir.
 
 Rakibin farklı bölgelerine yapılan saldırılar farklı sonuçlar doğurabilir. Oyuncunun savunma yapması ve rakibin saldırılarını doğru zamanda karşılaması da savaşlarda önemlidir.
 
 ## Hareket ve Kontroller
 
-Oyuncu karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir.
+Oyuncu, karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir.
 
-Kontrollerin kullanımı, seçilen **silaha ve ekipmana göre** **farklı bir oyun tarzı oluşturur**.
+Kontrollerin kullanımı, seçilen silaha ve ekipmana göre farklı bir oyun tarzı oluşturabilir.
 
-# Ekipman Kullanımı
+## Ekipman Kullanımı
 
 Oyunda kılıç, balta, mızrak ve benzeri çeşitli silahların yanı sıra farklı zırh ve savunma ekipmanları bulunur.
 
-Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve oynanış şeklini etkiler.
+Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve oynanış şeklini etkileyebilir.
 
-## Daha ayrıntılı bilgiler için:
+#### Daha ayrıntılı bilgiler için
 
 - "Silahlar" (silahlar.md)
 - "Zırhlar" (zirhlar.md)
 
-# İlerleme
+## İlerleme
 
-Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artar.
+Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artabilir.
 
-Her 500 ve 1000 seviyelerinde boss ortaya çıkar, diğer rakiplere göre daha güçlü zırh ve ekipman kuşanır, ayrıca çok daha agresiftir. 
+## Bosslar
 
-The British Isles (İngiliz Adaları) medeniyetinde sadece 500. seviyede boss ortaya çıkar.
+Genel olarak 500 ve 1000 seviyelerinde boss ortaya çıkar. Bosslar, diğer rakiplere kıyasla daha güçlü zırh ve ekipmanlar kuşanır ve daha agresif davranır.
+
+Ancak bu durum medeniyete göre değişebilir. The British Isles (İngiliz Adaları) medeniyetinde yapılan gözlemlerde yalnızca 500. seviyede boss ortaya çıktığı, 1000. seviyede ise özel bir bossun ortaya çıkmadığı görülmüştür.
+
+### Oyun İçi Gözlemler
+
+- Bossların genel olarak 500 ve 1000 seviyelerinde ortaya çıktığı gözlemlenmiştir.
+- The British Isles (İngiliz Adaları) medeniyetinde yalnızca 500. seviyede boss ortaya çıktığı gözlemlenmiştir.
+- Saldırının hızı ve hareket yönünün verilen hasarı etkilediği gözlemlenmiştir.
+- Oyuncu ilerledikçe karşılaşılan rakip ve kullanılan ekipmanın değiştiği gözlemlenmiştir.
+
+***Bu bölümdeki bilgiler, oyunun oynanması ve oyun içi testler sonucunda elde edilmiştir. Bilgiler oyunun sürümüne göre değişebilir.***
+
+Test edilen sürüm: 5.0.4 *
