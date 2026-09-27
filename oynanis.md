@@ -4,7 +4,7 @@ Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyu
 
 ## Dövüş Sistemi
 
-Oyundaki saldırılar, **karakterin kollarının hareket ettirilmesiyle** gerçekleştirilir. Silahın **hareket yönü ve saldırının zamanlaması**, rakibe verilen **hasarı etkileyebilir**.
+Oyundaki saldırılar, **karakterin kollarının hareket ettirilmesiyle** gerçekleştirilir. Silahın **hareket yönü ve saldırının zamanlaması**, rakibe verilen **hasarı etkiler**.
 
 Rakibin farklı bölgelerine yapılan saldırılar farklı sonuçlar doğurabilir. Oyuncunun savunma yapması ve rakibin saldırılarını doğru zamanda karşılaması da savaşlarda önemlidir.
 
@@ -28,3 +28,7 @@ Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve
 # İlerleme
 
 Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artar.
+
+Her 500 ve 1000 seviyelerinde boss ortaya çıkar, diğer rakiplere göre daha güçlü zırh ve ekipman kuşanır, ayrıca çok daha agresiftir. 
+
+The British Isles (İngiliz Adaları) medeniyetinde sadece 500. seviyede boss ortaya çıkar.
