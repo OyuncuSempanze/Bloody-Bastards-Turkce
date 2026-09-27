@@ -2,5 +2,43 @@
 ---
 
 body {
-    background: #000000 !important;
+  background: #0a0a08 !important;
+  color: #e8e5c8 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #f0edda !important;
+}
+
+p,
+li {
+  color: #e8e5c8 !important;
+}
+
+a {
+  color: #294a73 !important;
+}
+
+a:hover {
+  color: #3b6394 !important;
+}
+
+blockquote {
+  color: #bdb99f !important;
+  border-left-color: #294a73 !important;
+}
+
+code,
+pre {
+  background: #151512 !important;
+  color: #e0ddc5 !important;
+}
+
+hr {
+  border-color: #292921 !important;
 }
