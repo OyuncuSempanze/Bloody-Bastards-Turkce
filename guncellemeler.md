@@ -16,5 +16,5 @@ Güncellemelerde yeni silahlar, zırhlar, özellikler, oynanış değişiklikler
 [Bloody Bastards - Play Store]
 https://play.google.com/store/apps/details?id=com.tibith.badboxing
 
-[Resmi Tibith Web Sitesi]
+[Oyunun Resmi Web Sitesi]
 https://tibith.com/#/bloodybastards/
