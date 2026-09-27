@@ -1,24 +1,30 @@
 ## Oynanış
 
-Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır.
+Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır. **[Resmi Kaynak]**
 
 ## Dövüş Sistemi
 
-Oyundaki saldırılar, karakterin kollarının hareket ettirilmesiyle gerçekleştirilir. Silahın hareket yönü ve saldırının zamanlaması, rakibe verilen hasarı etkileyebilir.
+Oyundaki saldırılar, karakterin kollarının hareket ettirilmesiyle gerçekleştirilir. Silahın hareket yönü ve saldırının zamanlaması, rakibe verilen hasarı etkileyebilir. **[Resmi Kaynak]**
 
-Rakibin farklı bölgelerine yapılan saldırılar farklı sonuçlar doğurabilir. Oyuncunun savunma yapması ve rakibin saldırılarını doğru zamanda karşılaması da savaşlarda önemlidir.
+Rakibin farklı bölgelerine yapılan saldırılar farklı sonuçlar doğurabilir. Oyuncunun savunma yapması ve rakibin saldırılarını doğru zamanda karşılaması da savaşlarda önemlidir. **[Oyun İçi Gözlem]**
 
 ## Hareket ve Kontroller
 
-Oyuncu, karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir.
+Oyuncu, karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir. **[Resmi Kaynak]**
 
-Kontrollerin kullanımı, seçilen silaha ve ekipmana göre farklı bir oyun tarzı oluşturabilir.
+Kontrollerin kullanımı, seçilen silaha ve ekipmana göre farklı bir oyun tarzı oluşturabilir. **[Oyun İçi Gözlem]**
+
+## Enerji (Stamina)
+
+Karakterin belli bir enerjisi vardır, kuşanılan zırh, ekipman bu enerjiyi arrtırabilir/azaltabilir. **[Oyun İçi Gözlem]**
+
+Enerji tükendiğinde oyuncu yere yığılır **[Resmi Kaynak]** ve bir kaç saniye boyunca hareket edemez hâle gelir. **[Oyun İçi Gözlem]**
 
 ## Ekipman Kullanımı
 
-Oyunda kılıç, balta, mızrak ve benzeri çeşitli silahların yanı sıra farklı zırh ve savunma ekipmanları bulunur.
+Oyunda kılıç, balta, mızrak ve benzeri çeşitli silahların yanı sıra farklı zırh ve savunma ekipmanları bulunur. **[Resmi Kaynak]**
 
-Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve oynanış şeklini etkileyebilir.
+Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve oynanış şeklini etkileyebilir. **[Oyun İçi Gözlem]**
 
 #### Daha ayrıntılı bilgiler için
 
@@ -27,13 +33,14 @@ Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve
 
 ## İlerleme
 
-Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artabilir.
+Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. 
+İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artabilir. **[Oyun İçi Gözlem]**
 
 ## Bosslar
 
-Genel olarak 500 ve 1000 seviyelerinde boss ortaya çıkar. Bosslar, diğer rakiplere kıyasla daha güçlü zırh ve ekipmanlar kuşanır ve daha agresif davranır.
+Genel olarak 500 ve 1000 seviyelerinde boss ortaya çıkar. Bosslar, diğer rakiplere kıyasla daha güçlü zırh ve ekipmanlar kuşanır ve daha agresif davranır. **[Oyun İçi Gözlem]**
 
-Ancak bu durum medeniyete göre değişebilir. The British Isles (İngiliz Adaları) medeniyetinde yapılan gözlemlerde yalnızca 500. seviyede boss ortaya çıktığı, 1000. seviyede ise özel bir bossun ortaya çıkmadığı görülmüştür.
+Ancak bu durum medeniyete göre değişebilir. The British Isles (İngiliz Adaları) medeniyetinde yapılan gözlemlerde yalnızca 500. seviyede boss ortaya çıktığı, 1000. seviyede ise özel bir bossun ortaya çıkmadığı görülmüştür. **[Oyun İçi Gözlem]**
 
 ### Oyun İçi Gözlemler
 
@@ -41,7 +48,13 @@ Ancak bu durum medeniyete göre değişebilir. The British Isles (İngiliz Adala
 - The British Isles (İngiliz Adaları) medeniyetinde yalnızca 500. seviyede boss ortaya çıktığı gözlemlenmiştir.
 - Saldırının hızı ve hareket yönünün verilen hasarı etkilediği gözlemlenmiştir.
 - Oyuncu ilerledikçe karşılaşılan rakip ve kullanılan ekipmanın değiştiği gözlemlenmiştir.
+- Oyuncu yere yığıldıktan sonra yaklaşık 3-4 saniye boyunca hareket edemez hâle geldiği gözlemlenmiştir.
 
-***Bu bölümdeki bilgiler, oyunun oynanması ve oyun içi testler sonucunda elde edilmiştir. Bilgiler oyunun sürümüne göre değişebilir.***
+***Bu bölümdeki bazı bilgiler, oyunun oynanması ve oyun içi testler sonucunda elde edilmiştir. Bilgiler oyunun sürümüne göre değişebilir.***
 
 Test edilen sürüm: 5.0.4 *
+
+#### KAYNAKLAR
+
+[Oyunun Resmi Web Sitesi]
+https://tibith.com/#/bloodybastards/
