@@ -11,7 +11,7 @@ Güncellemelerde yeni silahlar, zırhlar, özellikler, oynanış değişiklikler
 * Bazı hatalar düzeltilir.
 
 
-#### Kaynaklar
+## Kaynaklar
 
 [Bloody Bastards - Play Store]
 https://play.google.com/store/apps/details?id=com.tibith.badboxing
