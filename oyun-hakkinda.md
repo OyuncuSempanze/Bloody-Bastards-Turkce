@@ -13,3 +13,13 @@
 * Oyunda çeşit çeşit medeniyetler ve silahlar bulunur. Her medeniyete özgü silah, zırh ve kalkan vardır.
 
 * Online modda **gerçek oyuncularla**, tekoyunculu modda ise **botlara karşı** oynarsınız.
+
+#### KAYNAKLAR
+
+[Bloody Bastards - BlueStacks] https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html
+
+[Bloody Bastards - Play Store]
+https://play.google.com/store/apps/details?id=com.tibith.badboxing
+
+[Oyunun Resmi Web Sitesi]
+https://tibith.com/#/bloodybastards/
