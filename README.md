@@ -1,7 +1,7 @@
 # Bloody Bastards Türkçe
 
 Bloody Bastards oyunu hakkında Türkçe bilgi ve içeriklerin
-bir araya getirildiği bağımsız bir bilgi arşivi. (Bilgiler en son 27 Eylül 2026 tarihinde güncellenmiştir.)
+bir araya getirildiği bağımsız bir bilgi arşivi. **(Bilgiler en son 27 Eylül 2026 tarihinde güncellenmiştir.)**
 
 ## İçindekiler
 
@@ -10,3 +10,4 @@ bir araya getirildiği bağımsız bir bilgi arşivi. (Bilgiler en son 27 Eylül
 - [Zırhlar](zirhlar.md)
 - [Oynanış](oynanis.md)
 - [Güncellemeler](guncellemeler.md)
+- [Karakter Özelleştirme](karakter-ozellestirme.md)
