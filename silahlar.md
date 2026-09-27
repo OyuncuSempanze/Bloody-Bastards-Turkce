@@ -9,7 +9,7 @@
 
 **Tek Elli Silahlar:**
 * Bu silahlar enerjinizi **daha az** tüketir ancak **daha kısadır** ve **daha az** hasar verir. [Oyun İçi Gözlem]
-* Başka bir **tek elli silah** veya **kalkan** kuşanabilirsiniz. (Yani **2** silah/kalkan kuşanabiliyorsunuz.)[Oyun İçi Gözlem] 
+* Başka bir **tek elli silah** veya **kalkan** kuşanabilirsiniz. (Yani **2** silah/kalkan kuşanabiliyorsunuz.) [Oyun İçi Gözlem] 
 
 **Kalkanlar:**
 * Silahlara göre daha fazla koruma sağlar ve kolunuzun/elinizin kırılmasını/kesilmesini **büyük ölçüde absorbe eder.** [Oyun İçi Gözlem]
