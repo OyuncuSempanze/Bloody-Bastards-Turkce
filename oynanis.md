@@ -1,16 +1,16 @@
 ## Oynanış
 
-Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır. **[Resmi Kaynak]**
+Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
 
 ## Dövüş Sistemi
 
-Oyundaki saldırılar, karakterin kollarının hareket ettirilmesiyle gerçekleştirilir. Silahın hareket yönü ve saldırının zamanlaması, rakibe verilen hasarı etkileyebilir. **[Resmi Kaynak]**
+Oyundaki saldırılar, karakterin kollarının hareket ettirilmesiyle gerçekleştirilir. Silahın hareket yönü ve saldırının zamanlaması, rakibe verilen hasarı etkileyebilir. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
 
 Rakibin farklı bölgelerine yapılan saldırılar farklı sonuçlar doğurabilir. Oyuncunun savunma yapması ve rakibin saldırılarını doğru zamanda karşılaması da savaşlarda önemlidir. **[Oyun İçi Gözlem]**
 
 ## Hareket ve Kontroller
 
-Oyuncu, karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir. **[Resmi Kaynak]**
+Oyuncu, karakterinin kollarını ve kullandığı silahları kontrol ederek saldırı ve savunma hareketleri yapabilir. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
 
 Kontrollerin kullanımı, seçilen silaha ve ekipmana göre farklı bir oyun tarzı oluşturabilir. **[Oyun İçi Gözlem]**
 
@@ -18,11 +18,11 @@ Kontrollerin kullanımı, seçilen silaha ve ekipmana göre farklı bir oyun tar
 
 Karakterin belli bir enerjisi vardır, kuşanılan zırh, ekipman bu enerjiyi arrtırabilir/azaltabilir. **[Oyun İçi Gözlem]**
 
-Enerji tükendiğinde oyuncu yere yığılır **[Resmi Kaynak]** ve bir kaç saniye boyunca hareket edemez hâle gelir. **[Oyun İçi Gözlem]**
+Enerji tükendiğinde oyuncu yere yığılır **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)** ve bir kaç saniye boyunca hareket edemez hâle gelir. **[Oyun İçi Gözlem]**
 
 ## Ekipman Kullanımı
 
-Oyunda kılıç, balta, mızrak ve benzeri çeşitli silahların yanı sıra farklı zırh ve savunma ekipmanları bulunur. **[Resmi Kaynak]**
+Oyunda kılıç, balta, mızrak ve benzeri çeşitli silahların yanı sıra farklı zırh ve savunma ekipmanları bulunur. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
 
 Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve oynanış şeklini etkileyebilir. **[Oyun İçi Gözlem]**
 
@@ -56,5 +56,4 @@ Test edilen sürüm: 5.0.4 *
 
 #### KAYNAKLAR
 
-[Oyunun Resmi Web Sitesi]
-https://tibith.com/#/bloodybastards/
+[Oyunun Resmi Web Sitesi](https://tibith.com/#/bloodybastards/)
