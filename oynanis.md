@@ -54,6 +54,6 @@ Ancak bu durum medeniyete göre değişebilir. The British Isles (İngiliz Adala
 
 Test edilen sürüm: 5.0.4 *
 
-#### KAYNAKLAR
+## KAYNAKLAR
 
 [Oyunun Resmi Web Sitesi](https://tibith.com/#/bloodybastards/)
