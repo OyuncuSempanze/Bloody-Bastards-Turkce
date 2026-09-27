@@ -3,43 +3,25 @@
 
 @import "{{ site.theme }}";
 
-/* Genel görünüm */
 body {
   background: #0b0b0b;
   color: #e5e5e5;
-  font-family: Arial, sans-serif;
 }
 
-/* Ana başlık */
 h1 {
   color: #f2f2f2;
 }
 
-/* Alt başlıklar */
 h2,
 h3,
 h4 {
   color: #dddddd;
 }
 
-/* Bağlantılar */
 a {
   color: #b83b3b;
 }
 
 a:hover {
   color: #d85454;
-}
-
-/* Kod ve kod blokları */
-pre,
-code {
-  background: #151515;
-  color: #dddddd;
-}
-
-/* Alıntılar */
-blockquote {
-  border-left: 4px solid #8f2d2d;
-  color: #aaaaaa;
 }
