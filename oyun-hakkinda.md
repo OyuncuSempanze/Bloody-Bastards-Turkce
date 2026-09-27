@@ -16,10 +16,8 @@
 
 #### KAYNAKLAR
 
-[Bloody Bastards - BlueStacks] https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html
+[Bloody Bastards - BlueStacks](https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html)
 
-[Bloody Bastards - Play Store]
-https://play.google.com/store/apps/details?id=com.tibith.badboxing
+[Bloody Bastards - Play Store](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
 
-[Oyunun Resmi Web Sitesi]
-https://tibith.com/#/bloodybastards/
+[Oyunun Resmi Web Sitesi](https://tibith.com/#/bloodybastards/)
