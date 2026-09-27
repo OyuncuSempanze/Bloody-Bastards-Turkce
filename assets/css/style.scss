@@ -1,44 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 body {
-  background: #080808 !important;
-  color: #e4e4e4 !important;
-}
-
-.wrapper {
-  background: #080808 !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #eeeeee !important;
-}
-
-p, li {
-  color: #e4e4e4 !important;
-}
-
-a {
-  color: #b33a3a !important;
-}
-
-a:hover {
-  color: #d05252 !important;
-}
-
-blockquote {
-  color: #b5b5b5 !important;
-  border-left-color: #8f2d2d !important;
-}
-
-code,
-pre {
-  background: #141414 !important;
-  color: #dddddd !important;
-}
-
-hr {
-  border-color: #242424 !important;
+    background: #000000 !important;
 }
