@@ -1,4 +1,4 @@
-## Oynanış
+# Oynanış
 
 Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
 
@@ -35,6 +35,12 @@ Kullanılan ekipman, karakterin savaş sırasında sahip olduğu özellikleri ve
 
 Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebilir. 
 İlerledikçe karşılaşılan rakiplerin ve kullanılan ekipmanların çeşitliliği artabilir. **[Oyun İçi Gözlem]**
+
+## Spooky/Snowy Modları
+
+ **Spooky (Ürpertici) Mod:** Arkaplan daha da koyulaşır, karakterler iskelete dönüşür ve uzuv parçalandığında kopar. (Normal modda uzuv parçalandığında kan efekti çıkar ancak uzuv bütünlüğünü korur, bu modda ise kan efekti çıkmaz fakat uzuv parçalandığında bütünlüğünü kaybeder.)
+ 
+ **Snowy (Karlı) Mod:** Arkaplan beyaz tonlarına bürünür, kar yağar ve karakter nefes alıp verdiğinde ağzından duman çıkar.
 
 ## Bosslar
 
