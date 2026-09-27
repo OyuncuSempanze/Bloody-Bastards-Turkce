@@ -7,7 +7,7 @@ Güncellemelerde yeni silahlar, zırhlar, özellikler, oynanış değişiklikler
 # En Son Gelen Güncelleme: 
 
 ## 5.0.4 (7 Eylül 2026)
-* Maç başlangıcında isim gösterme animasyonu eklenir.
+* Maç başlangıcında kısa bir cutscene (animasyon) eklenir.
 * Bazı hatalar düzeltilir.
 
 
