@@ -5,41 +5,41 @@
 
 /* Genel görünüm */
 body {
-  background: #111111;
-  color: #e6e6e6;
+  background: #0b0b0b;
+  color: #e5e5e5;
   font-family: Arial, sans-serif;
 }
 
 /* Ana başlık */
 h1 {
-  color: #ffffff;
+  color: #f2f2f2;
 }
 
 /* Alt başlıklar */
 h2,
 h3,
 h4 {
-  color: #d6d6d6;
+  color: #dddddd;
 }
 
 /* Bağlantılar */
 a {
-  color: #d94a4a;
+  color: #b83b3b;
 }
 
 a:hover {
-  color: #ff6b6b;
+  color: #d85454;
 }
 
-/* Kod blokları */
+/* Kod ve kod blokları */
 pre,
 code {
-  background: #1c1c1c;
-  color: #eeeeee;
+  background: #151515;
+  color: #dddddd;
 }
 
 /* Alıntılar */
 blockquote {
-  border-left: 4px solid #d94a4a;
-  color: #bdbdbd;
+  border-left: 4px solid #8f2d2d;
+  color: #aaaaaa;
 }
