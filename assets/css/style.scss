@@ -1,1 +1,45 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Genel görünüm */
+body {
+  background: #111111;
+  color: #e6e6e6;
+  font-family: Arial, sans-serif;
+}
+
+/* Ana başlık */
+h1 {
+  color: #ffffff;
+}
+
+/* Alt başlıklar */
+h2,
+h3,
+h4 {
+  color: #d6d6d6;
+}
+
+/* Bağlantılar */
+a {
+  color: #d94a4a;
+}
+
+a:hover {
+  color: #ff6b6b;
+}
+
+/* Kod blokları */
+pre,
+code {
+  background: #1c1c1c;
+  color: #eeeeee;
+}
+
+/* Alıntılar */
+blockquote {
+  border-left: 4px solid #d94a4a;
+  color: #bdbdbd;
+}
