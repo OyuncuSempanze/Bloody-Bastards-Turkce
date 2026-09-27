@@ -38,9 +38,9 @@ Oyuncu savaşları tamamlayarak oyunda ilerler ve farklı ekipmanlara erişebili
 
 ## Spooky/Snowy Modları
 
- **Spooky (Ürpertici) Mod:** Arkaplan daha da koyulaşır, karakterler iskelete dönüşür ve uzuv parçalandığında kopar. (Normal modda uzuv parçalandığında kan efekti çıkar ancak uzuv bütünlüğünü korur, bu modda ise kan efekti çıkmaz fakat uzuv parçalandığında bütünlüğünü kaybeder.)
+ **Spooky (Ürpertici) Mod:** Arkaplan daha da koyulaşır, karakterler iskelete dönüşür ve uzuv parçalandığında kopar. (Normal modda uzuv parçalandığında kan efekti çıkar ancak uzuv bütünlüğünü korur, bu modda ise kan efekti çıkmaz fakat uzuv parçalandığında bütünlüğünü kaybeder.) **[Resmi Kaynak](https://tibith.com/news)**
  
- **Snowy (Karlı) Mod:** Arkaplan beyaz tonlarına bürünür, kar yağar ve karakter nefes alıp verdiğinde ağzından duman çıkar.
+ **Snowy (Karlı) Mod:** Arkaplan beyaz tonlarına bürünür, kar yağar ve karakter nefes alıp verdiğinde ağzından duman çıkar. **[Resmi Kaynak](https://tibith.com/news)**
 
 ## Bosslar
 
